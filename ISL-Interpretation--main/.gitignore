@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS X
+.DS_Store
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dynamically generated models and datasets
+models/
+landmarks_data/
+
+# Temporary audio or image files
+*.wav
+*.mp3
+screenshot_*.jpg
